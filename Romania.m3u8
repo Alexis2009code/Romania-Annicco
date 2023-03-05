@@ -173,11 +173,9 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.sp
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/digi.world.ro.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Da Vinci Kids
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9811?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Digi 24
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2637?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24 SD
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
+#EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24 HD
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Digi Animal World
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2238?checkedby:iptvcat.com
